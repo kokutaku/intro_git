@@ -1,3 +1,5 @@
 テスト
 
 aaa
+/git add
+/git commit
